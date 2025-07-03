@@ -60,9 +60,26 @@ Step 1. Copy the ModelImg folder to the WIDGETS folder of your SD Card.
 
 ![image](https://github.com/ffodderr/edge-tx/blob/main/assets/3-widgetready.jpg)
 
-When you are not connected to a model, it will not show a model image. Instead it will show some text telling you what image it was looking for to load onto the screen, including the path to that image. If the image doesn't exist (in the IMAGES folder) then no image will be displayed.
+**Example screen when connected to a model**
 
-If you want to set a default image to appear when you are not connected to a model, create an image using the name displayed on the screen, and save it in the IMAGES folder. In the Step 3 screenshot above, you can see the missing image is called Rotorflight.png. If a Rotorflight.png image (192 x 114 pixel dimensions) existed in the IMAGES folder, that would be displayed here, when not connected to a model.
+![image](https://github.com/ffodderr/edge-tx/blob/main/assets/4-example.jpg)
 
+When you are not connected to a model, it will not show a model image. Instead it will show some text telling you what image it was trying to load, including the path to that image. If the image doesn't exist (in the IMAGES folder) then no image will be displayed.
+
+**Example screen (with an image) when NOT connected to a model**
+
+If you want to set a default image to appear when you are not connected to a model, create an image using the name displayed on the screen, and save it in the IMAGES folder. In the Step 3 screenshot above, you can see the missing image is called Rotorflight.png. If a Rotorflight.png image existed in the IMAGES folder, that would be displayed here, when not connected to a model.
+
+![image](https://github.com/ffodderr/edge-tx/blob/main/assets/5-example-notconnected.jpg)
+
+**Model image preparation**
+
+Best to use PNG files, and you can download existing or request new model images from the fantastic resource over at [www.skyraccoon.com](https://www.skyraccoon.com/)
+
+Model images should be **192 x 114** pixels in size.
+
+Transparent background images will look best!
+
+Name the image file the same as the model name, but **remove spaces** from the name. In the example above, the model name is "OMPHOBBY M4", so the image filename becomes "OMPHOBBYM4.png".
 
 ### I hope it is useful!
