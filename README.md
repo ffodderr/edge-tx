@@ -50,15 +50,15 @@ Step 1. Copy the ModelImg folder to the WIDGETS folder of your SD Card.
 
 **Step 1.** Locate a suitable spot on your screen layout to add the model image widget. Check screenshot for a suitable size and location option...
 
-
+![image](https://github.com/ffodderr/edge-tx/blob/main/assets/1-setupscreenwidget.jpg)
 
 **Step 2.** Press to "select Widget" from the widgets menu, and choose ModelImg from the list.
 
-
+![image](https://github.com/ffodderr/edge-tx/blob/main/assets/2-selectmodelimgwidget.jpg)
 
 **Step 3.** Close out of the screen editor, back to the home screen.
 
-
+![image](https://github.com/ffodderr/edge-tx/blob/main/assets/3-widgetready.jpg)
 
 When you are not connected to a model, it will not show a model image. Instead it will show some text telling you what image it was looking for to load onto the screen, including the path to that image. If the image doesn't exist (in the IMAGES folder) then no image will be displayed.
 
