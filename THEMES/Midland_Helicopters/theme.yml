@@ -1,0 +1,17 @@
+---
+summary: 
+   name: "MidlandHelicopters"
+   author: "RobGT"
+   info: "Midland Helicopters theme"
+colors: 
+   PRIMARY1: 0xD0D4D0
+   PRIMARY2: 0xF8FCF8
+   PRIMARY3: 0x58B8F8
+   SECONDARY1: 0x2074B0
+   SECONDARY2: 0xB0E0F0
+   SECONDARY3: 0x102030
+   FOCUS: 0x4890E0
+   EDIT: 0x90B068
+   ACTIVE: 0xF8B028
+   WARNING: 0xF80000
+   DISABLED: 0xC8D0C8
