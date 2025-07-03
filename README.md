@@ -6,6 +6,7 @@ Just stuff... might be useful
 I have also added a ModelImg widget, which is useful for adding a relevant model image to the screen when using a single model memory for multiple helicopters.<br>It uses the Model Name from the flight controller to load the relevant model image that you are connected to. See usage details below.
 
 ** **NO warranties are expressed or implied** **
+
 ** USE AT YOUR OWN RISK **
 
 ### About
@@ -29,6 +30,8 @@ Just me having a play around, trying to add some stuff I want, that I haven't ye
 **Step 1.** Copy the THEMES folder to the root folder of your SD Card. This will create a new folder in the THEMES folder of your transmitter called Midland_Helicopters.
 
 **Step 2.** Activate the theme
+
+![image](https://github.com/ffodderr/edge-tx/blob/main/assets/1-activatetheme.jpg)
 
 Now you should have a Midland Helicopters opening splash screen when you power on your TX16S transmitter, and a carbon look background for the screen. Colours have been themed into blues in general.
 
